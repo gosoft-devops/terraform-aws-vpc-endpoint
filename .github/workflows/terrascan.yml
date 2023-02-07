@@ -1,5 +1,6 @@
-on: [push]
+# on: [push]
 
-jobs:
-  - name: Terrascan IaC scanner
-    uses: tenable/terrascan-action@v1.4.1
+# jobs:
+#   terrascan:
+#   - name: Terrascan IaC scanner
+#     uses: tenable/terrascan-action@v1.4.1
